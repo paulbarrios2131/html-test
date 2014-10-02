@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>IQ Solutions Test - MCI</title>
+    <meta name="NIAMS Multicultural Outreach News--September 20, 2012 Issue" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <style>
+   	body {
+    width: 820px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    background-color: #FFF;
+    height: auto;
+}
+.notificationText {
+    font-size: 10px;
+}
+.headerImage {
+    padding: .5em;
+}
+.contentMain {
+    background-color: #fff;
+    padding: .5em;
+    border-style: solid;
+    border-color: #A8A8A8;
+    border-width: 1px 6px;
+}
+.leftColumn, .rightColumn {
+    width: 40%;
+    float: left;
+    padding: 0 3em 0 1em;
+}
+.avatarPic {
+    float: right;
+    margin: .5em;
+}
+.profilePic {
+    float: left;
+    margin: .5em;
+}
+.doctorInfo li {
+    margin-bottom: 30px;
+}
+.contenFooter {
+    background-color: #A8A8A8;
+    margin: 0;
+    padding: .5em;
+    margin-bottom: 25px;
+}
+.section-title, .sub-section-title {
+    color: #AC2907;
+    text-transform: uppercase;
+}
+.linkButton {
+    text-decoration: none;
+    color: #AC2907;
+}
+.infoBlock {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #A8A8A8;
+    margin-bottom: 20px;
+    padding: .2em;
+}
+.title-leftColumn {
+    color: #D55C09;
+    text-transform: uppercase;
+}
+.introText, .contact-li, .left-column-li {
+    background-color: #FDFDEE;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D55C09;
+    padding: .4em;
+}
+ul li {
+    list-style-type: none;
+}
+.outreach li {
+    list-style-type: circle;
+}
+.contact-info-list {
+    padding: 1em 0 1em 0;
+    margin: 0;
+}
+.featuredStories, .newsEvents, .featuredResources, .didYouknow, .healthPartnership, .whereNiams {
+    margin-bottom: 10px;
+}
+.featuredResources {
+    margin-top: 10px;
+}
+.whereNiamsPic {
+    margin: 1em;
+    float: left;
+}
+.whereNiams {
+    overflow: hidden;
+}
+.socialMedia ul li {
+    display: inline-block;
+}
+
+   </style>
+</head>
+
+<body>
+    <small class="notificationText">Please paste this link into your browser if you cannot read this <a href="http://www.niams.nih.gov/News_and_Events/MCI_News/2012/SeptemberNews.asp">email</a>
+    </small>
+    <div class="contentMain">
+        <div class="headerImage" align="center">
+            <img src="img/header.jpg">
+        </div>
+        <div class="tagLine" align="left">
+            <p>LEARN. CONNECT. SHARE</p>
+        </div>
+        <div class="dateStamp" align="right">
+            <small class "dateStamp">September 13, 2012</small>
+        </div>
+        <div class="leftColumn">
+            <div class="infoBlock">
+                <strong class="title-leftColumn">Introduction</strong>
+                <p class="introText">The NIAMS Multicultural Outreach Newsis an online quarterly digest to help keep our partners informed about information and resources for multicultural communities on diseases and conditions of the bones, joints, muscles and skin.</p>
+            </div>
+            <div class="infoBlock">
+                <strong class="title-leftColumn">Contact Information</strong>
+                <ul class="contact-li">
+                    <ul class="contact-info-list">
+                        <li>Office of Science Policy, Planning and Communications (OSPPC)</li>
+                        <li>Communications and Public Liaison Branch (CPLB)</li>
+                        <li><a class="linkButton" href="mailto:niamsinfo@mail.nih.gov">niamsinfo@mail.nih.gov</a>
+                        </li>
+                    </ul>
+                    <ul class="contact-info-list">
+                        <li>Anita Linde, M.P.P.</li>
+                        <li>Director, OSPPC</li>
+                    </ul>
+                    <ul class="contact-info-list">
+                        <li>Mimi Lising, M.P.H.</li>
+                        <li>Multicultural Health Educator</li>
+                    </ul>
+                    <ul class="contact-info-list">
+                        <li>Sara Rosario Wilson</li>
+                        <li>Multicultural Outreach Coordinator</li>
+                    </ul>
+                </ul>
+            </div>
+            <div class="infoBlock">
+                <strong class="title-leftColumn">In This Issue</strong>
+                <ul class="left-column-li">
+                    <li><a class="linkButton" href="#Featured" title="">Feature Stories</a>
+                    </li>
+                    <li><a class="linkButton" href="#Multicultural" title="">Multicultural News & Events</a>
+                    </li>
+                    <li><a class="linkButton" href="#Resources" title="">Featured Resources</a>
+                    </li>
+                    <li><a class="linkButton" href="#Know" title="">Did You Know?</a>
+                    </li>
+                    <li><a class="linkButton" href="#Where" title="">Where is the NIAMS?</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="infoBlock">
+                <strong class="title-leftColumn">Read More At NIAMS</strong>
+                <ul class="left-column-li">
+                    <li><a class="linkButton" href="#" title="click here">Health Information</a>
+                    </li>
+                    <li><a class="linkButton" href="#" title="click here">Portal en Español</a>
+                    </li>
+                    <li><a class="linkButton" href="#" title="click here">Contact Information</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="infoBlock">
+                <strong class="title-leftColumn">Subscriber Tools</strong>
+                <ul class="left-column-li">
+                    <li><a class="linkButton" href="#" title="click here">Subscribe</a>
+                    </li>
+                    <li><a class="linkButton" href="#" title="click here">Change Email Address</a>
+                    </li>
+                    <li><a class="linkButton" href="#" title="click here">Unsubscribe</a>
+                    </li>
+                    <li><a class="linkButton" href="#" title="click here">Privacy Policy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="rigtColumn">
+            <a name="Top"></a>
+            <div class="featuredStories">
+                <a name="Featured"></a>
+                <strong class="section-title">Featured Stories
+                    <hr>
+                </strong>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">Letter From Dr. Stephen I. Katz: NIAMS Expands Multicultural Outreach Efforts</strong>
+                    </li>
+                    <a href="http://www.niams.nih.gov/News_and_Events/NIAMS_Update/2012/expand_multicultural_outreach_letter.asp">
+                        <img class="avatarPic" src="img/katz.jpg" alt="Dr. Stephen I. Katz" title="Click for full article">
+                    </a>
+                    <li>The National Institutes of Health (NIH) and the NIAMS have a long-standing commitment to address disparities in the development and dissemination of science-based health information. As part of this commitment, the NIAMS is reaching out to underserved populations through a variety of methods, including the National Multicultural Outreach Initiative, publications, special events and, most recently, social media. <a href="http://www.niams.nih.gov/News_and_Events/NIAMS_Update/2012/expand_multicultural_outreach_letter.asp">Read more.</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">A Conversation With NIAMS Researcher Dr. Rafael Casellas</strong>
+                    </li>
+                    <a href="http://www.niams.nih.gov/About_Us/Mission_and_Purpose/Community_Outreach/Multicultural_Outreach/casellas.asp">
+                        <img class="avatarPic" src="img/casellas.jpg" alt="Dr. Rafael Casekkas" title="Click for full article">
+                    </a>
+                    <li>September is Hispanic Heritage Month. To celebrate Hispanic and Latino contributions to science, the NIAMS is highlighting the accomplishments of Rafael Casellas, Ph.D., Chief, Genomics and Immunity Section in the Laboratory of Molecular Immunogenetics, and Adjunct Investigator in the National Cancer Institute. In his interview, Dr. Casellas discusses the factors that influenced him to become a scientist, offers helpful advice for aspiring scientists and describes the most rewarding and challenging aspects of his career. <a href="http://www.niams.nih.gov/About_Us/Mission_and_Purpose/Community_Outreach/Multicultural_Outreach/casellas.asp">Read more.</a>
+                    </li>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+            <div class="newsEvents">
+                <a name="Multicultural"></a>
+                <strong class="section-title">Multicultural News & Events
+                    <hr>
+                </strong>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">Summit on the Science of Eliminating Health Disparities</strong>
+                    </li>
+                    <li>
+                        <em>Integrating Science, Policy and Practice: Building a Healthier Society</em>
+                    </li>
+                    <li>October 31–November 3, 2012</li>
+                    <li>Gaylord National Resort and Convention Center</li>
+                    <li>National Harbor, Maryland</li>
+                    <li>For more information, visit the Summit on the Science of Eliminating Health Disparities <a href="http://www.nimhd.nih.gov/summit_site/index.html">website.</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">NIAMS Participated in the 2012 USA Science and Engineering Festival</strong>
+                    </li>
+                    <a href="http://science.education.nih.gov/index.html">
+                        <img class="avatarPic" src="img/USASEF.jpg" alt="USA Science & Engineering Festival Logo" title="click for more info on USASEF">
+                    </a>
+                    <li>
+                        In April 2012, the NIAMS, in conjunction with the NIH, participated in the 2012 USA Science and Engineering Festival. The largest celebration of science in the United States featured over 3,000 fun, interactive exhibits, more than 100 stage shows and 33 author presentations. Over the course of four days, the festival hosted over 180,000 attendees.
+                    </li>
+                    <li>The NIAMS’ booth provided a variety of educational activities that explained the ways bones, joints, muscles and skin are affected by diseases such as osteoporosis and arthritis. The presenters also explained the function of skin, the human body’s largest organ, and how immunity develops and viruses are constructed. Through this event, the NIAMS showcased its research, distributed information and engaged children in science and research.</li>
+                    <li>For more about the NIH’s participation in the festival, visit the NIH <a href="http://science.education.nih.gov/index.html">website.</a>
+                    </li>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+            <div class="featuredResources">
+                <a name="Resources"></a>
+                <strong class="section-title">Featured Resources
+                    <hr>
+                </strong>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">
+                            <em>Ana’s Story: How she and her family learned about sports injuries</em>
+                        </strong>
+                    </li>
+                    <a href="http://niams.nih.gov/Health_Info/Sports_Injuries/Ana_story_english.asp">
+                        <img class="avatarPic" src="img/ana-story.jpg" alt="Ana's Story" title="click to read Ana's Story">
+                    </a>
+                    <li>
+                        Ana’s Storyis a
+                        <a href="http://niams.nih.gov/Portal_en_espanol/Informacion_de_salud/Lesiones_deportivas/ana_story_espanol.asp">
+                            <em>bilingual fotonovela</em>
+                        </a>that uses a comic-book style format to teach middle school kids how to avoid sports injuries. The fotonovelafeatures teen soccer star Ana, who sprains her knee during a pick-up game at a family picnic. Ana and her family learn the best way to treat a sports injury and how to avoid any future injuries.
+                    </li>
+                    <li>With fall sports in full swing, this is a must-read publication for active kids, parents and coaches! It follows the success of our first fotonovela, <a href="http://www.niams.nih.gov/Health_Info/Bone/osteoporosis/Isabel_story.asp">Isabel’s Story</a>, which focuses on osteoporosis.</li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">
+                            <em>Isabel’s Story: How she and her family learned about osteoporosis and bone health</em>
+                        </strong>
+                    </li>
+                    <li>
+                        This bilingual fotonovela uses the story of a woman named Isabel to present common warning signs and symptoms of osteoporosis, including height loss and broken bones. The booklet also discusses risk factors, ways to prevent falls, tips for getting enough calcium and steps to better bone health.
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">
+                            <em>NIH News in Health</em>
+                        </strong>
+                        <li>Read practical health information in NIH News in Health, which is reviewed by the NIH’s medical experts and is based on research conducted either by the scientists on the NIH campus or by its grantees at universities and medical schools around the country.</li>
+                        <ul>
+                            <li>
+                                <strong class="sub-section-title">Considering Hip Replacement?</strong>
+                            </li>
+                            <li>Hip replacement is an operation in which a damaged hip joint is removed and replaced with an artificial joint. If you or someone you know is considering hip replacement, you can learn more about this surgery at <a href="http://nihseniorhealth.gov/">NIHSeniorHealth.gov</a>, a website for older adults.</li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <strong class="sub-section-title">Red in the Face: Understanding Rosacea</strong>
+                                <li>Some people think of a rosy complexion as a sign of good health. But red patches on the face may point to something more troubling—a long-lasting skin disorder called rosacea.</li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <strong class="sub-section-title">Dizziness Can Be a Drag: Coping With Balance Disorders</strong>
+                                <li>Imagine reaching for something on a grocery shelf and suddenly feeling unsteady. Or looking over your shoulder to back up the car and having things start whirling around you. Most people feel dizzy now and then. But if that feeling persists or interferes with your daily life, it could be a sign of a balance disorder.</li>
+                        </ul>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+            <div class="didYouknow">
+                <a name="Know"></a>
+                <strong class="section-title">Did You Know?
+                    <hr>
+                </strong>
+                <ul>
+                    <li>Did you know that <a href="http://www.niams.nih.gov/health_info/joint_replacement/default.asp">joint replacement</a> is becoming more common? About 773,000 Americans have a hip or knee replaced each year. Research has shown that even if you are older, <a href="http://www.niams.nih.gov/health_info/joint_replacement/default.asp">joint replacement</a> can help you move around and feel better.</li>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+            <div class="healthPartnership">
+                <a name="Partnership"></a>
+                <strong class="section-title">Health Partnership Program Update
+                    <hr>
+                </strong>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">Update on the National Multicultural Outreach Initiative</strong>
+                    </li>
+                    <li>We are pleased to share that in July 2012, the NIAMS received an NIH Director’s Award in recognition of outstanding efforts to establish the NIAMS National Multicultural Outreach Initiative, dedicated to reaching underserved racial and ethnic populations. This recognition signals support by the NIH, and indeed, by the U.S. Department of Health and Human Services, for the NIAMS’ commitment to address disparities in health information among underserved populations.</li>
+                    <li>The NIAMS recently completed its pilot study to test the effectiveness of two tailored health planners, and to analyze the distribution methods of four community-based organizations to reach multicultural communities. The pilot study gave us important insight as we plan our national distribution efforts in 2013. Among the lessons we learned from the pilot study:</li>
+                    <ul class="outreach">
+                        <li>Tailoring the health planners to meet the cultural needs of the communities was much appreciated by the planner recipients and the outreach workers who distributed them.</li>
+                        <li>The health planners served as an interactive tool for outreach staff to discuss health issues with their patients and, in turn, for patients to discuss health issues with their providers.</li>
+                    </ul>
+                    <li>We will develop four tailored health planners, one for each of the following multicultural populations:</li>
+                    <ul class="outreach">
+                        <li>African Americans</li>
+                        <li>Hispanics/Latinos</li>
+                        <li>American Indians, Alaska Natives, and Native Hawaiians</li>
+                        <li>Asian Americans and Pacific Islanders</li>
+                    </ul>
+                    <li>We’ll need your help to distribute them to your communities! To assist you in your promotion efforts, we also will create an electronic toolkit of resources.</li>
+                    <li>Look for an announcement when these materials are available later this year.</li>
+                </ul>
+                <ul>
+                    <li>
+                        <strong class="sub-section-title">Community Health Center Welcomes New Fellows</strong>
+                    </li>
+                    <li>The NIAMS has added three new fellows to its <a href="http://rheumatology.nih.gov/">Rheumatology Fellows Program</a>. Drs. Daniella Schwartz, Pravitt Gourh and Angeliki Giannelou are members of the 2012–2013 Rheumatology Fellows class. The Rheumatology Fellowship Program falls under the NIH’s Graduate Medical Education training program, which allows students who choose to pursue an academic medical career in rheumatology to obtain hands-on experience through clinical rotations and research activities. Applicants must have completed two or more years of Internal Medicine residency training in order to apply to the program.</li>
+                </ul>
+                <ul class="doctorInfo">
+                    <a href="http://rheumatology.nih.gov/currentFellows/default.asp">
+                        <img class="profilePic" src="img/Schwartz.jpg" alt="Dr. Daniella Schwartz" title="click here for bio">
+                    </a>
+                    <strong class="sub-section-title">Dr. Daniella Schwartz</strong>
+                    <li>Dr. Daniella Schwartz received her Medical Doctor degree from the Wake Forest University School of Medicine in Winston-Salem, North Carolina, in May 2007. She began a residency in Pathology there in July 2007, but transferred to an Internal Medicine residency in July 2008 at Virginia Commonwealth University (VCU), which she completed in April 2011. Dr. Schwartz has published articles in Nature, Journal of Biological Chemistryand Cancer Research, and served as chief resident in Internal Medicine at VCU, completing her year as a junior faculty/clinical instructor in June 2012.</li>
+                    <br>
+                    <a href="http://rheumatology.nih.gov/currentFellows/default.asp">
+                        <img class="profilePic" src="img/giannelou.jpg" alt="Dr. Angeliki Giannelou" title="click here for bio">
+                    </a>
+                    <strong class="sub-section-title">Dr. Angeliki Giannelou</strong>
+                    <li>Dr. Angeliki Giannelou received her Medical Doctor degree from the University of Patras in Patras, Greece, in November 2004. Afterward, she provided medical care to an underserved population in a rural area of Greece, working at the General Hospital of Pyrgos from April 2006–July 2007. She researched heart failure and metabolic syndrome at the Cardiology Department of Asklepion Hospital in Athens from September 2007–February 2008. She continued her clinical research at the Veterans Affairs Medical Center in Washington, DC, through June 2008, evaluating the relationship between exercise tolerance and cardiovascular mortality and morbidity. This study led to co-authorship of two manuscripts in Hypertensionand the Hellenic Journal of Cardiology. Dr. Giannelou completed a one year post-doctoral fellowship in the Center for Vaccine Development at the University of Maryland Medical School in June 2009. She completed an Internal Medicine residency at Bridgeport Hospital–Yale New Haven Health System in Bridgeport, Connecticut, in June 2012.</li>
+                    <br>
+                    <a href="http://rheumatology.nih.gov/currentFellows/default.asp">
+                        <img class="profilePic" src="img/gourh.jpg" alt="Dr. Pravitt Gourh" title="click here for bio">
+                    </a>
+                    <strong class="sub-section-title">Dr. Pravitt Gourh</strong>
+                    <li>Dr. Pravitt Gourh received his Bachelor of Medicine and Bachelor of Surgery degrees from Maharaja Sayajirao University in India in June 2000. Dr. Gourh attended graduate school at Texas Tech University in Lubbock, Texas, until 2003. He joined the University of Texas at Houston as a research associate in the departments of medical genetics and rheumatology. He then joined the faculty of the Rheumatology Division of the University of Texas Health Science Center (UTHSC) as assistant professor researching the genetics of scleroderma. He completed a UTHSC Internal Medicine residency in June 2012. Dr. Gourh has co-authored many publications in Arthritis & Rheumatism, Annals of Rheumatic Diseases, Nature Geneticsand the New England Journal of Medicine, and presented at meetings both nationally and abroad.</li>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+            <div class="whereNiams">
+                <a name="Where"></a>
+                <strong class="section-title">Where is the NIAMS?
+                    <hr>
+                </strong>
+                <ul>
+                    <img class="whereNiamsPic" src="img/NIAMSexhibit.jpg">
+                    <li>The NIAMS exhibit is traveling to several events in 2012. See the complete <a href="http://niams.nih.gov/About_Us/Mission_and_Purpose/Community_Outreach/Health_Fairs/hfairs2012.asp">schedule of health fairs and exhibits.</a>
+                    </li>
+                    <li>The NIAMS can provide health information or staff to help make your community event or health fair successful. Please contact Sara Rosario Wilson by email, <a href="mailto:srosario@mail.nih.gov">srosario@mail.nih.gov</a>, for more information.</li>
+                </ul>
+                <a class="linkButton" href="#top">back to top ^</a>
+            </div>
+        </div>
+    </div>
+    <div class="contenFooter">
+        <div class="socialMedia" align="center">
+            <ul>
+                <li>
+                    <a href="https://twitter.com/NIH_NIAMS">
+                        <img src="img/twitter.gif" alt="twitter">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/NIH_NIAMS">
+                        <img src="img/facebook.gif" alt="facebook">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <small class="footerText">
+            The mission of the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), a part of the U.S. Department of Health and Human Services’ National Institutes of Health, is to support research into the causes, treatment, and prevention of arthritis and musculoskeletal and skin diseases; the training of basic and clinical scientists to carry out this research; and the dissemination of information on research progress in these diseases. For more information about the NIAMS, call the information clearinghouse at (301) 495-4484 or (877) 22-NIAMS (free call) or visit the NIAMS <a href="http://www.niams.nih.gov">website</a>.</small>
+    </div>
+</body>
