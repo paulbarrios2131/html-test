@@ -1,0 +1,96 @@
+body {
+    width: 820px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    background-color: #FFF;
+    height: auto;
+}
+.notificationText {
+    font-size: 10px;
+}
+.headerImage {
+    padding: .5em;
+}
+.contentMain {
+    background-color: #fff;
+    padding: .5em;
+    border-style: solid;
+    border-color: #A8A8A8;
+    border-width: 1px 6px;
+}
+.leftColumn, .rightColumn {
+    width: 40%;
+    float: left;
+    padding: 0 3em 0 1em;
+}
+.avatarPic {
+    float: right;
+    margin: .5em;
+}
+.profilePic {
+    float: left;
+    margin: .5em;
+}
+.doctorInfo li {
+    margin-bottom: 30px;
+}
+.contenFooter {
+    background-color: #A8A8A8;
+    margin: 0;
+    padding: .5em;
+    margin-bottom: 25px;
+}
+.section-title, .sub-section-title {
+    color: #AC2907;
+    text-transform: uppercase;
+}
+.linkButton {
+    text-decoration: none;
+    color: #AC2907;
+}
+.infoBlock {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #A8A8A8;
+    margin-bottom: 20px;
+    padding: .2em;
+}
+.title-leftColumn {
+    color: #D55C09;
+    text-transform: uppercase;
+}
+.introText, .contact-li, .left-column-li {
+    background-color: #FDFDEE;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D55C09;
+    padding: .4em;
+}
+ul li {
+    list-style-type: none;
+}
+.outreach li {
+    list-style-type: circle;
+}
+.contact-info-list {
+    padding: 1em 0 1em 0;
+    margin: 0;
+}
+.featuredStories, .newsEvents, .featuredResources, .didYouknow, .healthPartnership, .whereNiams {
+    margin-bottom: 10px;
+}
+.featuredResources {
+    margin-top: 10px;
+}
+.whereNiamsPic {
+    margin: 1em;
+    float: left;
+}
+.whereNiams {
+    overflow: hidden;
+}
+.socialMedia ul li {
+    display: inline-block;
+}
