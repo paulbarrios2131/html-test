@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>IQ Solutions Test - DTAC Bulletin</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+<style>
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	max-width: 400px;
+	margin: 0 auto;
+	font-family: sans-serif;
+	font-size: 12px;
+	line-height: 1.4;
+	background-color: #52748D
+}
+h1, h2, h3 {
+	color: #53738C;
+}
+p {
+	margin: 0 0 1em;
+}
+a {
+	color: #fff;
+}
+ul {
+	margin: 0 0 1em
+}
+.notification {
+	color: white;
+	padding: .5em 0
+}
+.headerImage {
+	line-height: 0px;
+}
+.page-title {
+	font-size: 1.6em;
+	margin: 0 0 .5em;
+}
+.page-subtitle {
+	margin: 1em 0 .25em
+}
+.newsletter {
+	background-color: #fff;
+	padding: 1em;
+}
+.newsletter a {
+	color: #B46C3A
+}
+.date {
+	float: left;
+	width: 100%;
+	margin: 0 0 1em;
+}
+.date ul {
+	list-style-type: none;
+}
+.date ul li {
+	display: inline-block;
+	float: left;
+}
+.date-month, .date-day {
+	padding: .5em .75em;
+	color: #fff;
+}
+.date-month {
+	background-color: #53738C;
+	font-weight: bold;
+}
+.date-day {
+	background-color: #B46C3A;
+	margin-right: 1em;
+}
+.date-link {
+	width: 65%;
+}
+.contact-list {
+	list-style-type: none;
+}
+.socialMedia {
+	line-height: 0;
+	padding: .5em;
+	background-color: #F5F9DE;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCC;
+}
+.footerContent {
+	color: #fff;
+	margin: .5em 0;
+	font-size: .8em;
+}
+.footerContent-logo {
+	float: left;
+}
+</style>
+<!--[if lt IE 9]>
+    <style>
+    body { width: 400px; }
+    </style>
+    <![endif]-->
+</head>
+<body>
+<!-- notification text -->
+<div class="notification"> <small>Having trouble viewing this email? <a href="#" title="click here"> View it in your Browser</a> </small> </div>
+<!-- end of notification text -->
+<!-- heaer image -->
+<div class="headerImage"> <img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/DTAC-logo-v2.gif" title="header" alt="header" width=""> </div>
+<div class="tableColors">
+  <table style="background: #f9f5de; border: 0px; height: 5px; line-height: 5px; width: 100%;" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td style="background: #000000; line-height: 5px; width: 12%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #BDB07B; line-height: 5px; width: 6%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #B35651; line-height: 5px; width: 13%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #D6BD7A; line-height: 5px; width: 6%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #616F58; line-height: 5px; width: 12%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #54738F; line-height: 5px; width: 26%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #C7AC5D; line-height: 5px; width: 12%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+        <td style="background: #B76D3C; line-height: 5px; width: 13%;"><img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/spacer.gif" border="0" width="1" height="5" style="display: block;" /></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!-- end of header image -->
+<div class="newsletter">
+  <!-- H1 text -->
+  <h1 class="page-title">Example Heading <br>
+    Upcoming Events</h1>
+  <!-- end of H1 -->
+  <!-- start of event1 information -->
+  <div class="eventContainer">
+    <div class="date">
+      <ul>
+        <li class="date-month">JUL</li>
+        <li class="date-day">17–20</li>
+        <li class="date-link"><a href="#" title="click here">International Critical Incident Stress Foundation Regional Conference</a> </li>
+      </ul>
+    </div>
+    <p>This regional conference will enable disaster behavioral health professionals to attend up to three courses and earn continuing education units. Course options include group crisis intervention, individual crisis intervention and peer support, emotional and spiritual care in disasters, and working with victims of individual and mass crimes. </p>
+  </div>
+  <!-- end of event1 information -->
+  <!-- start of event2 information -->
+  <div class="eventContainer">
+    <div class="date">
+      <ul>
+        <li class="date-month">JUL</li>
+        <li class="date-day">17–20</li>
+        <li class="date-link"><a href="#" title="click here">International Critical Incident Stress Foundation Regional Conference</a> </li>
+      </ul>
+    </div>
+    <p>This regional conference will enable disaster behavioral health professionals to attend up to three courses and earn continuing education units. Course options include group crisis intervention, individual crisis intervention and peer support, emotional and spiritual care in disasters, and working with victims of individual and mass crimes. </p>
+  </div>
+  <!-- end of event2 info -->
+  <!-- start of other info -->
+  <h2 class="page-subtitle">Participate on the SAMHSA DTAC Discussion Board</h2>
+  <p>Discuss disaster behavioral health issues, share lessons learned, and post helpful resources.</p>
+  <a href="#" title="click here">Become a Member</a>
+  <h2 class="page-subtitle">Receive <em>The Dialogue</em> </h2>
+  <p> <em>The Dialogue</em>is a quarterly e-newsletter that provides practical and down-to-earth information for disaster behavioral health coordinators, local service providers, federal agencies, and nongovernmental organizations, straight to your inbox. You can also contribute an article to an upcoming issue.</p>
+  <a href="#" title="subscribe">Subscribe to <em>The Dialogue</em></a> | <a href="#" title="submit">Submit an Article or Feature</a>
+  <!-- end of other info -->
+  <!-- start of Questions Section -->
+  <h2 class="page-subtitle">Questions About the SAMHSA <em>DTAC Bulletin</em>?</h2>
+  <p>The SAMHSA <em>DTAC Bulletin</em>is a monthly newsletter used to share updates in the field, post upcoming activities, and highlight new resources. For more information, please contact:
+  <ul class="contact-list">
+    <li>Nikki D. Bellamy, Ph.D.</li>
+    <li><a href="tel:240-276-2418">240-276-2418</a> </li>
+    <li><a href="mailto:nikki.bellamy@samhsa.hhs.gov">nikki.bellamy@samhsa.hhs.gov</a> </li>
+  </ul>
+  <ul class="contact-list">
+    <li>CDR Erik Hierholzer</li>
+    <li><a href="tel:240-276-0408">240-276-0408</a> </li>
+    <li><a href="mailto:erik.hierholzer@samhsa.hhs.gov">erik.hierholzer@samhsa.hhs.gov</a> </li>
+  </ul>
+  <!-- end -->
+</div>
+<div class="socialMedia" align="right"> <a> <img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/icon2013-facebook.gif" title="facebook Logo" alt="Facebook"> </a> <a> <img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/icon2013-twitter.gif" title="Twitter Logo" alt="Twitter"> </a> <a> <img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/icon2013-youtube.gif" title="YouTube Logo" alt="YouTube"> </a> <a> <img src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/icon2013-blog.gif" title="Blogger Logo" alt="Blogger"> </a> </div>
+<div class="footerContent" align="right">
+  <!-- footer -->
+  <p> <a href="#">Publications</a> | <a href="#">Update My Profile </a> | <a href="#">Unsubscribe </a> | <a href="#"> Contact Us </a> </p>
+  <p>Substance Abuse & Mental Health Services Administration <br>
+    1 Choke Cherry Road | Rockville, MD 20857 <br>
+    1-877-SAMHSA-7 <a href="tel:1-877-726-4727">(1-877-726-4727)</a> | <a href "#">www.samhsa.gov </a> | <a href="#">Privacy</a> </p>
+  <img class="footerContent-logo" src="http://tools.store.samhsa.gov/emarketing/eblasts/templates/main/images/HHS_logo_OffWhite.gif" title="United States Department of Health and Human Services" height="50" width="50" alt="United States Department of Health and Human Services">
+  <p> <em>SAMHSA is a public health agency within the U.S. Department of Health and Human Services. Its mission is to reduce the impact of substance abuse and mental illness on America's communities.</em> </p>
+  <p>This email was delivered to <a href="mailto:#">EMAIL_ADDRESS</a>.</p>
+  <p> Forwarded this by a friend? <a href="#">Subscribe</a> and join over 200,000 people receiving the latest on substance use and mental health.</p>
+  <!-- end of footer -->
+</div>
+</body>
+</html>
